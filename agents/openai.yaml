@@ -1,0 +1,7 @@
+interface:
+  display_name: "Literature Source Finder"
+  short_description: "Find sources for communication-studies claims."
+  default_prompt: "Use $literature-source-finder to find English scholarly sources for this communication-studies claim."
+
+policy:
+  allow_implicit_invocation: true
